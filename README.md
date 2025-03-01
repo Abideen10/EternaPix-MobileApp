@@ -1,4 +1,4 @@
-# eternapix
+# EternaPix
 
 A new Flutter project.
 
